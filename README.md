@@ -77,4 +77,8 @@ Otworzy się okno aplikacji.
 
 ## Bezpieczeństwo
 
-Hasła generowane są za pomocą modułu `secrets` — kryptograficznie bezpiecznego generatora liczb losowych wbudowanego w Pythona.
+Hasła generowane są za pomocą modułu `secrets` — kryptograficznie bezpiecznego generatora liczb losowych wbudowanego w Pythona. 
+
+
+=============
+Hello world
